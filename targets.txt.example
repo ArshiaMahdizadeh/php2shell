@@ -1,0 +1,3 @@
+# one target per line, http(s)://host[:port][/path]
+https://example.com
+http://testphp.vulnweb.com

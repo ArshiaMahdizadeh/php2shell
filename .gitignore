@@ -1,0 +1,12 @@
+pycache/
+*.pyc
+.venv/
+out/
+reports/
+mass-out/
+exfil/
+collector/
+*.sqlite
+.sqlite-
+targets.txt
+.DS_Store
